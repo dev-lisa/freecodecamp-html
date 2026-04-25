@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Explore the world with affordable travel packages, flight deals, and unforgettable holiday experiences. Book your dream trip today!">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+  <h1>Where Will You Travel Next?</h1>
+  <p>Explore incredible travel opportunities designed to inspire your next adventure. From affordable getaways to luxury holidays, discover destinations that match your dreams, budget, and lifestyle. Start planning your perfect trip today and experience the world like never before.</p>
+  <h2>Packages</h2>
+  <p>Discover a variety of travel packages tailored to your dream destinations. From affordable holiday deals to luxury experiences, each package is carefully crafted to give you the best value, comfort, and unforgettable memories. Whether you’re traveling solo, with friends, or family, there’s a perfect package waiting for you.</p>
+
+ <ul>
+   <li>
+   <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+</li>
+
+<li>
+   <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+</li>
+
+   </a>
+
+ </ul>
+
+ <h2>Top Itineraries</h2>
+
+ <figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Ancient Colosseum in Rome surrounded by blue sky">
+</a>
+<figcaption>The Colosseum in Rome, Italy</figcaption>
+ </figure>
+
+ <figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Snow-covered mountains in the Alps under a clear sky">
+</a>
+<figcaption>The Alps mountain range</figcaption>
+ </figure>
+
+ <figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Calm blue ocean with a clear horizon">
+</a>
+<figcaption>A peaceful view of the sea</figcaption>
+ </figure>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
